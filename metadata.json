@@ -1,0 +1,6 @@
+{
+  "name": "GoLive Dubai",
+  "description": "Business setup and corporate services in Dubai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

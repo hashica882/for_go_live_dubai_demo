@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-brand-400: #e62040;
+  --color-brand-500: #D90A2C;
+  --color-brand-600: #b30824;
+  
+  --color-dark-800: #32353c;
+  --color-dark-900: #24262b;
+  --color-dark-950: #1a1c20;
+}
+
+html {
+  scroll-behavior: smooth;
+}
